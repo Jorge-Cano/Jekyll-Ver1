@@ -2,7 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+This was a test project **bold**,
+I wanted to time the speed at which it would take to _italic_,
+</br> with minimal effort have a site up and running on github pages, ~~strikethrough~~.
 
 [Link to another page](another-page).
 
