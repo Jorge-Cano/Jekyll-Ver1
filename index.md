@@ -22,7 +22,26 @@ About Me:
 <dt>Home State</dt>
 <dd>Texas</dd>
 <dt>Favorite Software</dt>
-<dd>Sintra.. Classy, Lightweight and Unopinionated</dd>
+<dd>Sinatra.. Classy, Lightweight and Unopinionated</dd>
+<dt>Favorite Web App</dt>
+<dd>Coin Flip between Github and Codepen.io</dd>
+
+```ruby
+# Ruby Logic for a Coin Flip
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
+
+```js
+// Javascript Logic for a Coin Flip
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+About me continued..
+
 <dt>Favorite Piece of Code</dt>
 <dd> curl -fSSl https://gist.githubusercontent.com/shime/f0ebe84ca42c33b51d42/raw/5e74315dc6b6fe572f8a457536ad7eb17ad3f1e4/qlobe.rb > qlobe.rb; while true; do ruby qlobe.rb | tee temp.rb; sleep 1; mv -f temp.rb qlobe.rb; done </dd>
 </dl>
