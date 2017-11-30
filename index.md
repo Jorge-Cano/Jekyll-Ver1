@@ -2,11 +2,29 @@
 layout: default
 ---
 
-This was a test project **bold**,
-I wanted to time the speed at which it would take to _italic_,
-~~with minimal effort have a site up and running on github-pages~~.
+**This began as a test project**,
+_My goal was to have a minimal site up and running in minutes._,
+~~It suits the way I like to approach design as well as life style~~.
 
-[Link to another page](another-page).
+Lightweight, Minimalistic with a balance of Function & Form.
+
+[Link to my Blog and Thought Balloon](another-page).
+
+About Me:
+<dl>
+<dt>Name</dt>
+<dd>Jorge Cano</dd>
+<dt>Favorite Animal</dt>
+<dd>Seals aka water pups</dd>
+<dt>Events in the year of my birth</dt>
+<dd> that occured the years I was Born: “Calvin and Hobbes” made it's debut, Ninetendo made it's US release, Free Software Foundation was born.</dd>
+<dt>Birth State</dt>
+<dd>Texas</dd>
+<dt>Favorite Software</dt>
+<dd>Sintra</dd>
+<dt>Favorite Piece of Code</dt>
+<dd> curl -fSSl https://gist.githubusercontent.com/shime/f0ebe84ca42c33b51d42/raw/5e74315dc6b6fe572f8a457536ad7eb17ad3f1e4/qlobe.rb > qlobe.rb; while true; do ruby qlobe.rb | tee temp.rb; sleep 1; mv -f temp.rb qlobe.rb; done </dd>
+</dl>
 
 There should be whitespace between paragraphs.
 
