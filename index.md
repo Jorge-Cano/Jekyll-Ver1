@@ -25,7 +25,7 @@ About Me:
 <dd>Sinatra.. Classy, Lightweight and Unopinionated</dd>
 <dt>Favorite Web App</dt>
 <dd>It's a Coin Flip between Github and Codepen.io</dd>
-
+</dl>
 
 ```js
 // Javascript logic for a coin-flip
@@ -44,6 +44,7 @@ end
 
 About me continued..
 
+<dl>
 <dt>Favorite Piece of Code</dt>
 <dd> curl -fSSl https://gist.githubusercontent.com/shime/f0ebe84ca42c33b51d42/raw/5e74315dc6b6fe572f8a457536ad7eb17ad3f1e4/qlobe.rb > qlobe.rb; while true; do ruby qlobe.rb | tee temp.rb; sleep 1; mv -f temp.rb qlobe.rb; done </dd>
 </dl>
