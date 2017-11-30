@@ -4,7 +4,7 @@ layout: default
 
 **This began as a test project.**
 **My goal was to have a minimal site up and running in minutes.**
-**It like to think this suits my approach to design & also my life style**
+**I like to think this suits my approach to design & also my life style**
 **..Lightweight, Minimalistic with a balance of Function & Form.**
 
 [Link to my Blog and Thought Balloon](another-page).
@@ -24,22 +24,24 @@ About Me:
 <dt>Favorite Software</dt>
 <dd>Sinatra.. Classy, Lightweight and Unopinionated</dd>
 <dt>Favorite Web App</dt>
-<dd>Coin Flip between Github and Codepen.io</dd>
+<dd>It's a Coin Flip between Github and Codepen.io</dd>
 
-```ruby
-# Ruby Logic for a Coin Flip
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 ```js
-// Javascript Logic for a Coin Flip
+// Javascript logic for a coin-flip
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
   return true;
 }
 ```
+
+```ruby
+# Ruby logic for a coin-flip
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
+
 About me continued..
 
 <dt>Favorite Piece of Code</dt>
