@@ -2,9 +2,9 @@
 layout: default
 ---
 
-**This began as a test project**,
+**This began as a test project.**
 _My goal was to have a minimal site up and running in minutes._
-~~It like to think this suits my approach to design & also my life style~~.
+~~It like to think this suits my approach to design & also my life style~~
  ..Lightweight, Minimalistic with a balance of Function & Form.
 
 [Link to my Blog and Thought Balloon](another-page).
