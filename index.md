@@ -3,12 +3,13 @@ layout: default
 ---
 
 **This began as a test project**,
-_My goal was to have a minimal site up and running in minutes._,
-~~It suits the way I like to approach design as well as life style~~.
-
-Lightweight, Minimalistic with a balance of Function & Form.
+_My goal was to have a minimal site up and running in minutes._
+~~It like to think this suits my approach to design & also my life style~~.
+ ..Lightweight, Minimalistic with a balance of Function & Form.
 
 [Link to my Blog and Thought Balloon](another-page).
+
+> “The penalty for procrastination is the loss of hopes and dreams.”
 
 About Me:
 <dl>
@@ -16,25 +17,27 @@ About Me:
 <dd>Jorge Cano</dd>
 <dt>Favorite Animal</dt>
 <dd>Seals aka water pups</dd>
-<dt>Events in the year of my birth</dt>
-<dd> that occured the years I was Born: “Calvin and Hobbes” made it's debut, Ninetendo made it's US release, Free Software Foundation was born.</dd>
-<dt>Birth State</dt>
+<dt>Events in the year of 1985.</dt>
+<dd>“Calvin and Hobbes” made it's debut, Ninetendo made it's US release, Free Software Foundation was born.</dd>
+<dt>Home State</dt>
 <dd>Texas</dd>
 <dt>Favorite Software</dt>
-<dd>Sintra</dd>
+<dd>Sintra.. Classy, Lightweight and Unopinionated</dd>
 <dt>Favorite Piece of Code</dt>
 <dd> curl -fSSl https://gist.githubusercontent.com/shime/f0ebe84ca42c33b51d42/raw/5e74315dc6b6fe572f8a457536ad7eb17ad3f1e4/qlobe.rb > qlobe.rb; while true; do ruby qlobe.rb | tee temp.rb; sleep 1; mv -f temp.rb qlobe.rb; done </dd>
 </dl>
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# [](#header-1)Projects
 
-# [](#header-1)Header 1
+| Project Name | Languages Used    | Frameworks |
+|:-------------|:------------------|:------|
+| Type Drummer | HTML, CSS, Javascript | Frontend Hosted on github  |
+| Quote Machine| Javascript        | React  |
+| Sinatra App  | Ruby, Haml        | Sinatra  |
+| Data Visualizer | HTML, CSS, Javascript | Express, Chart.js
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## [](#header-2)Header 2
+## [](#header-2)Skills
 
 > This is a blockquote following a header.
 >
