@@ -75,11 +75,17 @@ About me continued..
 | Sinatra App  | Ruby, Haml        | Sinatra  |
 | Data Visualizer | HTML, CSS, Javascript | Express, Chart.js
 
-## [](#header-2)Skills
+## [](#header-2)Find My Code, LinkedIn and Medium Blog:
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+
+> Github
+<a href="{{ site.https://github.com/Jorge-Cano}}">{{ GitHub }}</a>
+
+> Linkedin
+<a href="{{ site.https://www.linkedin.com/in/jorgeacano/}}">{{ Linkedin }}</a>
+
+> Medium
+<a href="{{ site.https://medium.com/@jacinaustin}}">{{ My Medium Blog }}</a> 
 
 ### [](#header-3)Header 3
 
@@ -153,7 +159,7 @@ end
   - level 2 item
 - level 1 item -->
 
-### Small image
+<!-- ### Small image -->
 
 ![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
