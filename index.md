@@ -54,7 +54,7 @@ end
 ```
 ```
 You can find some of my practice code on 
-<a href=https://repl.it/@ruby_jorge/Coin-Flip-in-Ruby /a>
+<a href="{{ site.https://repl.it/@ruby_jorge/Coin-Flip-in-Ruby"}}>{{ repl.it }}</a>
 ```
 
 
