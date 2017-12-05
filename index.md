@@ -79,9 +79,9 @@ About me continued..
 
 <a href="https://github.com/Jorge-Cano">GitHub</a>
 
-<a href="https://www.linkedin.com/in/jorgeacano/}}">Linkedin</a>
+<a href="https://www.linkedin.com/in/jorgeacano/">Linkedin</a>
 
-<a href="https://medium.com/@jacinaustin}}">My Medium Blog</a>
+<a href="https://medium.com/@jacinaustin">My Medium Blog</a>
 
 
 <!-- ### [](#header-3)Header 3
