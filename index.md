@@ -78,16 +78,17 @@ About me continued..
 ## [](#header-2)Find My Code, LinkedIn and Medium Blog:
 
 
-> Github
+Github
 <a href="{{ site.https://github.com/Jorge-Cano}}">{{ GitHub }}</a>
 
-> Linkedin
+Linkedin
 <a href="{{ site.https://www.linkedin.com/in/jorgeacano/}}">{{ Linkedin }}</a>
 
-> Medium
-<a href="{{ site.https://medium.com/@jacinaustin}}">{{ My Medium Blog }}</a> 
+Medium
+<a href="{{ site.https://medium.com/@jacinaustin}}">{{ My Medium Blog }}</a>
 
-### [](#header-3)Header 3
+
+<!-- ### [](#header-3)Header 3
 
 ```js
 // Javascript code with syntax highlighting.
@@ -102,7 +103,7 @@ var fun = function lang(l) {
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
-```
+``` -->
 
 <!-- #### [](#header-4)Header 4
 
