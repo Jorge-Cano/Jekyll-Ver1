@@ -7,7 +7,7 @@ layout: default
 **I like to think this suits my approach to design & also my life style**
 **..Lightweight, Minimalistic with a balance of Function & Form.**
 
-[Link to my Blog and Thought Balloon](another-page).
+[Blog and Thought Balloon](another-page).
 
 > “The penalty for procrastination is the loss of hopes and dreams.”
 
@@ -36,11 +36,25 @@ var fun = function lang(l) {
 ```
 
 ```ruby
-# Ruby logic for a coin-flip
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
+puts "Quick, choose: heads or tails?"
+users_guess = gets.chomp.to_s
+
+if rand.round == 0
+  coin = "heads"
+else
+  coin = "tails"
+end
+
+if coin.to_s == users_guess.to_s
+  puts "And the flip is " + coin.upcase + "! You get the chicken dinner! ha ha get it? Winner-Winner..nevermind."
+else
+  puts "And the flip is " + coin + ".(wah wah).. Bad News is that You didn't win. Up-Side this doesn't go on your driving record or anything."
 end
 ```
+```
+You can find some of my practice code on https://repl.it/@ruby_jorge/Coin-Flip-in-Ruby
+```
+
 
 About me continued..
 
