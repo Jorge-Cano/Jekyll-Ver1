@@ -53,7 +53,8 @@ else
 end
 ```
 ```
-You can find some of my practice code on [] https://repl.it/@ruby_jorge/Coin-Flip-in-Ruby
+You can find some of my practice code on 
+<a href=https://repl.it/@ruby_jorge/Coin-Flip-in-Ruby /a>
 ```
 
 
