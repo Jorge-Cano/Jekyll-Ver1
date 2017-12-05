@@ -79,7 +79,7 @@ About me continued..
 
 
 Github
-<a href="{{ site.https://github.com/Jorge-Cano}}">{{ GitHub }}</a>
+<a href="https://github.com/Jorge-Cano">GitHub</a>
 
 Linkedin
 <a href="{{ site.https://www.linkedin.com/in/jorgeacano/}}">{{ Linkedin }}</a>
