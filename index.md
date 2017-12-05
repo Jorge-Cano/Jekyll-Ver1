@@ -54,7 +54,7 @@ end
 ```
 ```
 You can find some of my practice code on
-<a href="{{ site.https://repl.it/@ruby_jorge/Coin-Flip-in-Ruby}}">{{ repl.it }}</a>
+<a href="https://repl.it/@ruby_jorge/Coin-Flip-in-Ruby">repl.it</a>
 ```
 
 
@@ -77,15 +77,11 @@ About me continued..
 
 ## [](#header-2)Find My Code, LinkedIn and Medium Blog:
 
-
-Github
 <a href="https://github.com/Jorge-Cano">GitHub</a>
 
-Linkedin
-<a href="{{ site.https://www.linkedin.com/in/jorgeacano/}}">{{ Linkedin }}</a>
+<a href="https://www.linkedin.com/in/jorgeacano/}}">Linkedin</a>
 
-Medium
-<a href="{{ site.https://medium.com/@jacinaustin}}">{{ My Medium Blog }}</a>
+<a href="https://medium.com/@jacinaustin}}">My Medium Blog</a>
 
 
 <!-- ### [](#header-3)Header 3
