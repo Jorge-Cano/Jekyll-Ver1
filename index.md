@@ -53,8 +53,8 @@ else
 end
 ```
 ```
-You can find some of my practice code on 
-<a href="{{ site.https://repl.it/@ruby_jorge/Coin-Flip-in-Ruby"}}>{{ repl.it }}</a>
+You can find some of my practice code on
+<a href="{{ site.https://repl.it/@ruby_jorge/Coin-Flip-in-Ruby}}">{{ repl.it }}</a>
 ```
 
 
@@ -98,7 +98,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### [](#header-4)Header 4
+<!-- #### [](#header-4)Header 4
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
@@ -151,13 +151,13 @@ end
 - level 1 item
   - level 2 item
   - level 2 item
-- level 1 item
+- level 1 item -->
 
 ### Small image
 
 ![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
-### Large image
+<!-- ### Large image
 
 ![](https://guides.github.com/activities/hello-world/branching.png)
 
@@ -181,4 +181,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
