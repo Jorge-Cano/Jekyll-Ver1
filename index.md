@@ -36,6 +36,7 @@ var fun = function lang(l) {
 ```
 
 ```ruby
+# Ruby logic for a coin-flip
 puts "Quick, choose: heads or tails?"
 users_guess = gets.chomp.to_s
 
@@ -52,7 +53,7 @@ else
 end
 ```
 ```
-You can find some of my practice code on https://repl.it/@ruby_jorge/Coin-Flip-in-Ruby
+You can find some of my practice code on [] https://repl.it/@ruby_jorge/Coin-Flip-in-Ruby
 ```
 
 
