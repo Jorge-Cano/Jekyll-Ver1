@@ -27,6 +27,8 @@ layout: default
 <dd>It's a Coin Flip between Github and Codepen.io</dd>
 </dl>
 
+**Code & Projects..**
+
 ```js
 // Javascript logic for a coin-flip
 var fun = function lang(l) {
@@ -58,13 +60,13 @@ You can find some of my practice code on
 ```
 
 
-About me continued..
 
+```
 <dl>
 <dt>Favorite Piece of Code</dt>
 <dd> curl -fSSl https://gist.githubusercontent.com/shime/f0ebe84ca42c33b51d42/raw/5e74315dc6b6fe572f8a457536ad7eb17ad3f1e4/qlobe.rb > qlobe.rb; while true; do ruby qlobe.rb | tee temp.rb; sleep 1; mv -f temp.rb qlobe.rb; done </dd>
 </dl>
-
+```
 
 # [](#header-1)Projects
 
