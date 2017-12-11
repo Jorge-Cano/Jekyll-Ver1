@@ -2,7 +2,7 @@
 layout: default
 ---
 [back to main](./) <br>
-_Yay you made it.. that was a breeze._
+_You stuck the landing.. SMOOTH._
 
 ## Blog and Daily Thoughts..My very own 'Thought Balloon'.
 
