@@ -11,7 +11,7 @@ layout: default
 
 > “The penalty for procrastination is the loss of hopes and dreams.”
 
-About Me:
+**About Me:**
 <dl>
 <dt>Name</dt>
 <dd>Jorge Cano</dd>
