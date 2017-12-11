@@ -11,15 +11,15 @@ _You stuck the landing.. SMOOTH._
 **Sunday December 10th, 2017**
 
 <dt>
-_What are your current the current coding projects you're involved in?_
+What are your current the current coding projects you're involved in?
 </dt>
 I'm engaged in building an Express, Mongo DB Star Wars App; Working on minimizing daily resources on Google Search/Maps for leads at my company via a scripting project using Python, Mechanize and Beautiful Soup (my aim is to automate the entire lead sourcing that's currently being done OR at least part of it), and then there's a coin flip between my 'Pusher' project that using websockets for chat & Selenium Webdriver for automated testing (which I should technically use for the webscraping but I got on this tutorial via youtube and can turn back now.)
 <dt>
-_What is the word of the year for you?_
+What is the word of the year for you?
 </dt>
 'Subsequent', yea I've been stuck on this word lately. If there was a close second I would have to go with 'Recursion'.
 <dt>
-_What are you goals for 2018?_
+What are you goals for 2018?
 </dt>
 Automate more tasks and not just at work but in my routine. I need to build and app that just displays everything I need read up on whether it be news, emails or docs.. I need 1 page, 1 single pane. My other goal is to reach peak physical shape.
 
