@@ -61,11 +61,10 @@ You can find some of my practice code on
 
 
 
-```
-<dl>
-<dt>Favorite Piece of Code</dt>
-<dd> curl -fSSl https://gist.githubusercontent.com/shime/f0ebe84ca42c33b51d42/raw/5e74315dc6b6fe572f8a457536ad7eb17ad3f1e4/qlobe.rb > qlobe.rb; while true; do ruby qlobe.rb | tee temp.rb; sleep 1; mv -f temp.rb qlobe.rb; done </dd>
-</dl>
+```Ruby
+#Favorite Piece of Code
+curl -fSSl https://gist.githubusercontent.com/shime/f0ebe84ca42c33b51d42/raw/5e74315dc6b6fe572f8a457536ad7eb17ad3f1e4/qlobe.rb > qlobe.rb; while true; do ruby qlobe.rb | tee temp.rb; sleep 1; mv -f temp.rb qlobe.rb; done
+  
 ```
 
 # [](#header-1)Projects
