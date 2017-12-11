@@ -18,7 +18,7 @@ layout: default
 <dt>Favorite Animal</dt>
 <dd>Seals aka water pups</dd>
 <dt>Events in the year of 1985.</dt>
-<dd>“Calvin and Hobbes” made it's debut, Ninetendo made it's US release, Free Software Foundation was born.</dd>
+<dd>“Calvin and Hobbes” made it's debut, Nintendo made it's US release, Free Software Foundation was born.</dd>
 <dt>Home State</dt>
 <dd>Texas</dd>
 <dt>Favorite Software</dt>
@@ -64,7 +64,7 @@ You can find some of my practice code on
 ```Ruby
 #Favorite Piece of Code
 curl -fSSl https://gist.githubusercontent.com/shime/f0ebe84ca42c33b51d42/raw/5e74315dc6b6fe572f8a457536ad7eb17ad3f1e4/qlobe.rb > qlobe.rb; while true; do ruby qlobe.rb | tee temp.rb; sleep 1; mv -f temp.rb qlobe.rb; done
-  
+
 ```
 
 # [](#header-1)Projects
