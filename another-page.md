@@ -11,7 +11,7 @@ _You stuck the landing.. SMOOTH._
 **Sunday December 10th, 2017**
 
 <dt>
-What are your current the current coding projects you're involved in?
+What projects are you currently involved in?
 </dt>
 I'm engaged in building an Express, Mongo DB Star Wars App; Working on minimizing daily resources on Google Search/Maps for leads at my company via a scripting project using Python, Mechanize and Beautiful Soup (my aim is to automate the entire lead sourcing that's currently being done OR at least part of it), and then there's a coin flip between my 'Pusher' project that using websockets for chat & Selenium Webdriver for automated testing (which I should technically use for the webscraping but I got on this tutorial via youtube and can turn back now.)
 <dt>
