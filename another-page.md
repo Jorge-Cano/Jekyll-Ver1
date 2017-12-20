@@ -13,7 +13,7 @@ _You stuck the landing.. SMOOTH._
 <dt>
 What projects are you currently involved in?
 </dt>
-I'm engaged in building an Express, Mongo DB Star Wars App; Working on minimizing daily resources on Google Search/Maps for leads at my company via a scripting project using Python, Mechanize and Beautiful Soup (my aim is to automate the entire lead sourcing that's currently being done OR at least part of it), and then there's a coin flip between my 'Pusher' project that using websockets for chat & Selenium Webdriver for automated testing (which I should technically use for the webscraping but I got on this tutorial via youtube and can turn back now.)
+I'm currently engaged in building an Express, Mongo DB Star Wars App; Working on minimizing daily resources on Google Search/Maps for leads at my company via a scripting project using Python, Mechanize and Beautiful Soup (my aim is to automate the entire lead sourcing that's currently being done OR at least part of it), and then there's a coin flip between my 'Pusher' project that using websockets for chat & Selenium Webdriver for automated testing (which I should technically use for the webscraping but I got on this tutorial via youtube and can turn back now.)
 <dt>
 What is the word of the year for you?
 </dt>
