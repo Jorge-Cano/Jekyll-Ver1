@@ -7,6 +7,19 @@ _You stuck the landing.. SMOOTH._
 ## Blog and Daily Thoughts..My very own 'Thought Balloon'.
 
 * * *
+**Tuesday Januaru 2nd, 2017**
+
+Focused on 3 main Code Topics
+
+- JAVASCRIPT
+Structures, Code Blocks, Solutions to challenges like algorithms, sorting & manipulating data.
+
+- PYTHON 
+Building out graphs with DJANGO AND D3
+
+- Learning the PHP syntax
+
+* * *
 
 **Sunday December 10th, 2017**
 
