@@ -7,7 +7,7 @@ _You stuck the landing.. SMOOTH._
 ## Blog and Daily Thoughts..My very own 'Thought Balloon'.
 
 * * *
-<<<<<<< HEAD
+
 **Sunday January 7th, 2018**
 
 <a href="https://jorge-cano.github.io/Snake-JS/">Snake-JS</a>
@@ -19,15 +19,16 @@ and take user inputs like Name & Date. Maybe a Tetris clone in React just to kno
 
 I'm going to create a Medium post that goes through the build step by step.
 
-=======
-**Tuesday Januaru 2nd, 2017**
+* * *
+
+**Tuesday January 2nd, 2017**
 
 Focused on 3 main Code Topics
 
 - JAVASCRIPT
 Structures, Code Blocks, Solutions to challenges like algorithms, sorting & manipulating data.
 
-- PYTHON 
+- PYTHON
 Building out graphs with DJANGO AND D3
 
 - Learning the PHP syntax
