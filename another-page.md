@@ -7,6 +7,7 @@ _You stuck the landing.. SMOOTH._
 ## Blog and Daily Thoughts..My very own 'Thought Balloon'.
 
 * * *
+<<<<<<< HEAD
 **Sunday January 7th, 2018**
 
 <a href="https://jorge-cano.github.io/Snake-JS/">Snake-JS</a>
@@ -18,6 +19,19 @@ and take user inputs like Name & Date. Maybe a Tetris clone in React just to kno
 
 I'm going to create a Medium post that goes through the build step by step.
 
+=======
+**Tuesday Januaru 2nd, 2017**
+
+Focused on 3 main Code Topics
+
+- JAVASCRIPT
+Structures, Code Blocks, Solutions to challenges like algorithms, sorting & manipulating data.
+
+- PYTHON 
+Building out graphs with DJANGO AND D3
+
+- Learning the PHP syntax
+>>>>>>> fdd8047725733794dd1655f42535d29f2174285b
 
 * * *
 
@@ -26,7 +40,7 @@ I'm going to create a Medium post that goes through the build step by step.
 <dt>
 What projects are you currently involved in?
 </dt>
-I'm engaged in building an Express, Mongo DB Star Wars App; Working on minimizing daily resources on Google Search/Maps for leads at my company via a scripting project using Python, Mechanize and Beautiful Soup (my aim is to automate the entire lead sourcing that's currently being done OR at least part of it), and then there's a coin flip between my 'Pusher' project that using websockets for chat & Selenium Webdriver for automated testing (which I should technically use for the webscraping but I got on this tutorial via youtube and can turn back now.)
+I'm currently engaged in building an Express, Mongo DB Star Wars App; Working on minimizing daily resources on Google Search/Maps for leads at my company via a scripting project using Python, Mechanize and Beautiful Soup (my aim is to automate the entire lead sourcing that's currently being done OR at least part of it), and then there's a coin flip between my 'Pusher' project that using websockets for chat & Selenium Webdriver for automated testing (which I should technically use for the webscraping but I got on this tutorial via youtube and can turn back now.)
 <dt>
 What is the word of the year for you?
 </dt>
