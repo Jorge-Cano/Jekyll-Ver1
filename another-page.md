@@ -32,7 +32,7 @@ Structures, Code Blocks, Solutions to challenges like algorithms, sorting & mani
 Building out graphs with DJANGO AND D3
 
 - Learning the PHP syntax
->>>>>>> fdd8047725733794dd1655f42535d29f2174285b
+
 
 * * *
 
