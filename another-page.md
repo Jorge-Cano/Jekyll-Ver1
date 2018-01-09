@@ -17,7 +17,7 @@ I had been fiddling around with Canvas and a few basic concepts before finishing
 Really simple, still mildly entertaining but I'd like to build a more complex version that keeps top score
 and take user inputs like Name & Date. Maybe a Tetris clone in React just to knock out 2 refreshers at once.
 
-I'm going to create a Medium post that goes through the build step by step.
+I'm going to create a Medium post that goes through the build step by step. Next is a User Interface / Analytics Dashboard
 
 * * *
 
