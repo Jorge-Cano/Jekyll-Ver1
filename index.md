@@ -30,11 +30,11 @@ layout: default
 **Code & Projects..**
 
 ```js
-// Javascript logic for a coin-flip
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
+function coinFlip() {
+    return (Math.floor(Math.random() * 2) == 0) ? 'heads' : 'tails';
 }
+
+console.log(coinFlip());
 ```
 
 ```ruby
