@@ -21,7 +21,7 @@ I'm going to create a Medium post that goes through the build step by step. Next
 
 * * *
 
-**Tuesday January 2nd, 2017**
+**Tuesday January 2nd, 2018**
 
 Focused on 3 main Code Topics
 
